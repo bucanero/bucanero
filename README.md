@@ -1,6 +1,6 @@
 ### 📊 GitHub Stats
 
-![bucanero's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bucanero&show_icons=true&line_height=27&count_private=true&theme=transparent) ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bucanero&theme=transparent&langs_count=3)
+![bucanero's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bucanero&theme=transparent) ![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bucanero&theme=transparent)
 
 <!-- Actual text -->
 
